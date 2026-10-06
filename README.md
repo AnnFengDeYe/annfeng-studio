@@ -89,14 +89,3 @@ xattr -dr com.apple.quarantine /Applications/Vela.app
 ```
 
 首次运行需要的权限：Stela 需要「辅助功能」授权，用来把内容粘贴到前台 App；Clara 需要桌面文件夹的访问权限。
-
-## 隐私
-
-没有广告，没有遥测。除了可以关闭的功能（Stela 的链接预览、Densa 的更新检查）之外，它们不访问网络。
-
-## 致谢
-
-- 演示视频《Time Lapse Clouds above Steens Mountain》由美国土地管理局拍摄，公有领域，来自 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Time_Lapse_Clouds_above_Steens_Mountain_(36203941112).webm)。
-- 演示 PDF 中的文字为欧阳修《醉翁亭记》、吴均《与朱元思书》、柳宗元《小石潭记》，以及 Thoreau、Muir、Emerson 的散文，均为公有领域。
-- Stela 基于 [tarikbc/Copy](https://github.com/tarikbc/Copy)（GPL-3.0）开发，以 GPL-3.0 发布，源代码见 [AnnFengDeYe/stela](https://github.com/AnnFengDeYe/stela)。
-- Vela 使用 [libVLC](https://www.videolan.org/vlc/libvlc.html)（LGPL 2.1）、[Qt](https://www.qt.io)（LGPL 3）与 OpenSSL；Densa 使用 [libarchive](https://www.libarchive.org) 与 [7-Zip](https://www.7-zip.org)（LGPL）。

@@ -89,14 +89,3 @@ xattr -dr com.apple.quarantine /Applications/Vela.app
 ```
 
 Permissions on first run: Stela needs Accessibility to paste into the frontmost app; Clara needs access to the Desktop folder.
-
-## Privacy
-
-No ads, no telemetry. Apart from features you can switch off (Stela's link previews, Densa's update check), the apps do not touch the network.
-
-## Credits
-
-- The demo footage, *Time Lapse Clouds above Steens Mountain*, was shot by the U.S. Bureau of Land Management and is in the public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Time_Lapse_Clouds_above_Steens_Mountain_(36203941112).webm).
-- The demo PDF quotes essays by Thoreau, Muir and Emerson, and by Ouyang Xiu, Wu Jun and Liu Zongyuan, all in the public domain.
-- Stela is a fork of [tarikbc/Copy](https://github.com/tarikbc/Copy) (GPL-3.0) and is released under GPL-3.0; source at [AnnFengDeYe/stela](https://github.com/AnnFengDeYe/stela).
-- Vela uses [libVLC](https://www.videolan.org/vlc/libvlc.html) (LGPL 2.1), [Qt](https://www.qt.io) (LGPL 3) and OpenSSL; Densa uses [libarchive](https://www.libarchive.org) and [7-Zip](https://www.7-zip.org) (LGPL).
