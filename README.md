@@ -1,4 +1,4 @@
-<p align="right"><a href="README.en.md">English</a></p>
+<p align="right"><a href="README.zh-CN.md">中文</a></p>
 
 <p align="center">
   <img src="assets/icon-vela.png" width="72" alt="Vela">&nbsp;&nbsp;
@@ -10,82 +10,82 @@
 
 # Annfeng Studio
 
-欢迎来到 Annfeng Studio —— 致力于探索纯粹与实用体验的独立应用集。
+Welcome to Annfeng Studio, a small collection of independent apps in pursuit of experiences that are pure and useful.
 
-这里收录了我个人开发的一系列苹果生态工具：Vela、Stela、Folia、Clara、Densa。如你所见，它们都以字母 "a" 作为结尾。这算是一个小小的命名习惯，也连接着它们相同的初衷：在设计上努力向苹果的简约美学靠拢，坚持极简易用，且永远没有广告。
+Here you will find the tools I build for the Apple ecosystem: Vela, Stela, Folia, Clara and Densa. As you may have noticed, every name ends in the letter "a". It is a small naming habit, and it ties them to a shared intent: to lean toward Apple's understated aesthetic, to stay simple and easy to use, and never to carry ads.
 
-我相信，好的工具应当如呼吸般自然——平时隐于无形，却能在你需要时提供切实的帮助。愿这些轻巧的工具，能为你的数字生活带来一份克制与高效。
+I believe a good tool should feel as natural as breathing: invisible most of the time, and genuinely helpful the moment you need it. May these light tools bring a little restraint and efficiency to your digital life.
 
-| | 应用 | 一句话 | 系统要求 | 下载 |
+| | App | In one line | Requires | Download |
 |:-:|---|---|---|---|
-| <img src="assets/icon-vela.png" width="28"> | [Vela](#vela) | 一个安静的视频播放器 | macOS 12 及以上，Apple 芯片 | [Vela 0.5.9](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/vela-v0.5.9/Vela-0.5.9-macos-arm64.dmg) |
-| <img src="assets/icon-stela.png" width="28"> | [Stela](#stela) | 复刻 Paste 体验的剪贴板管理器 | macOS 14 及以上 | [Stela 1.0.1](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/stela-v1.0.1/Stela-1.0.1.dmg) |
-| <img src="assets/icon-folia.png" width="28"> | [Folia](#folia) | 原生的 PDF 阅读与批注 | macOS 26 及以上 | [Folia 1.0.1](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/folia-v1.0.1/Folia-1.0.1.dmg) |
-| <img src="assets/icon-clara.png" width="28"> | [Clara](#clara) | 给 Mac 桌面划出分区 | macOS 15 及以上 | [Clara 1.2.0](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/clara-v1.2.0/Clara-1.2.0.zip) |
-| <img src="assets/icon-densa.png" width="28"> | [Densa](#densa) | 三十余种格式的压缩与解压 | macOS 14 及以上 | [Densa 0.1.0](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/densa-v0.1.0/Densa-0.1.0.zip) |
+| <img src="assets/icon-vela.png" width="28"> | [Vela](#vela) | A quiet video player | macOS 12 or later, Apple silicon | [Vela 0.5.9](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/vela-v0.5.9/Vela-0.5.9-macos-arm64.dmg) |
+| <img src="assets/icon-stela.png" width="28"> | [Stela](#stela) | A clipboard manager in the spirit of Paste | macOS 14 or later | [Stela 1.0.1](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/stela-v1.0.1/Stela-1.0.1.dmg) |
+| <img src="assets/icon-folia.png" width="28"> | [Folia](#folia) | Native PDF reading and annotation | macOS 26 or later | [Folia 1.0.1](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/folia-v1.0.1/Folia-1.0.1.dmg) |
+| <img src="assets/icon-clara.png" width="28"> | [Clara](#clara) | Zones for the Mac desktop | macOS 15 or later | [Clara 1.2.0](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/clara-v1.2.0/Clara-1.2.0.zip) |
+| <img src="assets/icon-densa.png" width="28"> | [Densa](#densa) | Archives in thirty-odd formats | macOS 14 or later | [Densa 0.1.0](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/densa-v0.1.0/Densa-0.1.0.zip) |
 
-全部安装包都在 [Releases](https://github.com/AnnFengDeYe/annfeng-studio/releases) 页面，安装方法见文末。
+All installers live on the [Releases](https://github.com/AnnFengDeYe/annfeng-studio/releases) page. Installation notes are at the end.
 
 ---
 
 ## Vela
 
-<p align="center"><img src="assets/zh/vela.gif" width="720" alt="Vela：快进步长、倍速、画面比例、旋转与画中画"></p>
+<p align="center"><img src="assets/en/vela.gif" width="720" alt="Vela: skip length, playback speed, aspect ratio, rotation and picture in picture"></p>
 
-安静的视频播放器。它将强大的 VLC 内核隐藏在只有细进度条与线性图标的极简界面之下，全面保留了全格式、多字幕与硬解支持。在克制的视觉外表下，它赋予了极大的播放自由度：快进步长、倍速（0.1×至8×）与画面比例均可随心设定；配合无缝旋转、置顶画中画、自动加载字幕与同目录连播等贴心功能，为你带来纯粹、专注且高度顺手的沉浸式观影体验。
+A quiet video player. It keeps the full VLC engine behind an interface that is nothing more than a thin progress bar and a few line icons, so every format, subtitle and hardware-decoding capability comes along. Beneath that restraint sits real freedom: skip length, playback speed (0.1× to 8×) and aspect ratio are all yours to set, and seamless rotation, an always-on-top picture-in-picture window, automatic subtitle loading and folder playback make for a pure, focused and genuinely comfortable way to watch.
 
-系统要求：macOS 12 及以上，Apple 芯片。下载：[Vela-0.5.9-macos-arm64.dmg](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/vela-v0.5.9/Vela-0.5.9-macos-arm64.dmg)
+Requires macOS 12 or later on Apple silicon. Download: [Vela-0.5.9-macos-arm64.dmg](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/vela-v0.5.9/Vela-0.5.9-macos-arm64.dmg)
 
 ---
 
 ## Stela
 
-<p align="center"><img src="assets/zh/stela.gif" width="900" alt="Stela：⇧⌘V 唤出面板，拼音首字母、繁简互通与英文容错检索，回车粘贴"></p>
+<p align="center"><img src="assets/en/stela.gif" width="900" alt="Stela: summon the shelf with ⇧⌘V, search with accent and stem folding, paste with Return"></p>
 
-直观且专注本地隐私的剪贴板管理器。唤出面板，你复制过的文本、图片、链接或文件都会化作一张张带有来源应用主题色的彩色卡片，从屏幕底部优雅升起。它内置了极为强大的纯本地检索引擎——无论是中文拼音首字母、简繁体、英文模糊拼写，还是截图里的文字（本机 OCR），都能帮你瞬间精准定位。结合纯文本粘贴、数字快捷键、常用收藏库（Pinboard）以及屏幕共享自动隐藏等贴心细节，在完全无遥测、数据零上传的安全前提下，让碎片信息的留存与调用变得自然而从容。
+An intuitive clipboard manager that keeps everything on your Mac. Summon the shelf and the text, images, links and files you have copied rise from the bottom of the screen as cards tinted with their source app's color. A capable on-device search finds things in an instant, whether you type pinyin initials, traditional or simplified characters, a misspelled English word, or something that only appeared inside a screenshot, read by local OCR. Plain-text pasting, number shortcuts, Pinboards for favorites and automatic hiding during screen sharing round it out, with no telemetry and nothing uploaded, so keeping and recalling the fragments of your day becomes natural and unhurried.
 
-系统要求：macOS 14 及以上。下载：[Stela-1.0.1.dmg](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/stela-v1.0.1/Stela-1.0.1.dmg)
+Requires macOS 14 or later. Download: [Stela-1.0.1.dmg](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/stela-v1.0.1/Stela-1.0.1.dmg)
 
 ---
 
 ## Folia
 
-<p align="center"><img src="assets/zh/folia.gif" width="900" alt="Folia：高亮、下划线、荧光笔、形状、便签、批注列表、搜索与阅读主题"></p>
+<p align="center"><img src="assets/en/folia.gif" width="900" alt="Folia: highlight, underline, highlighter, shapes, notes, the annotation list, search and reading themes"></p>
 
-纯粹的原生 PDF 阅读与批注工具。它坚持零第三方库依赖，将全套的批注编辑（高亮、手写、签名、图章等）与灵活的页面重组功能，完美融入轻盈的原生框架中。应用界面会随着阅读纸张的主题色智能切换明暗，带来舒适不突兀的视觉沉浸感；同时它深度适配了 Mac 的触控板手势与快捷键，无论是专注阅读还是深度批注，都能为你提供自然流畅、一气呵成的文档处理体验。
+A pure, native PDF reader and annotator. With no third-party dependencies at all, it folds a complete annotation toolkit (highlights, handwriting, signatures, stamps and more) and flexible page management into a light native frame. The window shifts between light and dark with the paper you are reading, so nothing jars the eye, and deep support for Mac trackpad gestures and shortcuts lets focused reading and heavy annotation alike flow in one unbroken motion.
 
-系统要求：macOS 26 及以上。下载：[Folia-1.0.1.dmg](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/folia-v1.0.1/Folia-1.0.1.dmg)
+Requires macOS 26 or later. Download: [Folia-1.0.1.dmg](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/folia-v1.0.1/Folia-1.0.1.dmg)
 
 ---
 
 ## Clara
 
-<p align="center"><img src="assets/zh/clara.gif" width="420" alt="Clara：分区之间的对齐吸附与等距参考线，图标拖入分区，新文件自动归类"></p>
+<p align="center"><img src="assets/en/clara.gif" width="420" alt="Clara: zones snapping into alignment with guides, icons dropped into a zone, new files collected automatically"></p>
 
-轻巧克制的 Mac 桌面整理工具。它用优雅的磨砂玻璃质感在桌面上划出专属分区，帮你将繁杂的图标进行井然有序的视觉归组，而绝不会改变文件的真实存储路径。每一次拖拽与缩放，都伴随着如 Keynote 般丝滑的参考线对齐与边缘吸附；聪明的“自动收纳”功能，更能让新产生的截图或下载文件瞬间落入指定区域。在仅需最基本访问权限的安全前提下，它完美保留了所有 Finder 的原生操作习惯，为你从容重塑一个整洁、灵动且极具秩序美的桌面环境。
+A light, restrained way to tidy the Mac desktop. It draws elegant frosted-glass zones on the desktop and gathers scattered icons into orderly groups, without ever changing where a file actually lives. Every drag and resize comes with Keynote-smooth guides and edge snapping, and a clever Collect feature sends new screenshots and downloads straight into the zone you choose. It asks for only the most basic access, keeps every native Finder habit intact, and quietly gives you back a desktop that is tidy, lively and pleasingly ordered.
 
-系统要求：macOS 15 及以上。下载：[Clara-1.2.0.zip](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/clara-v1.2.0/Clara-1.2.0.zip)
+Requires macOS 15 or later. Download: [Clara-1.2.0.zip](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/clara-v1.2.0/Clara-1.2.0.zip)
 
 ---
 
 ## Densa
 
-<p align="center"><img src="assets/zh/densa.gif" width="900" alt="Densa：三种格式一起解压，加密压缩包输入密码，浏览 GBK 文件名的旧压缩包并搜索"></p>
+<p align="center"><img src="assets/en/densa.gif" width="900" alt="Densa: three formats extracted at once, a password for an encrypted archive, browsing a Shift_JIS-named archive with search"></p>
 
-轻盈且强大的 macOS 原生解压缩工具。它安静地融入系统之中，为你提供对三十余种归档格式的全面支持。无需漫长的解压等待，你可以直接在窗口内搜索、空格预览，或精准拖出压缩包内的任意单个文件；它还能聪明地自动识别各种历史编码，让恼人的乱码从此绝迹。配合深度的 Finder 右键扩展、严密的安全防护与轻快的操作逻辑，它将繁琐的文件打包与解包化繁为简，为你带来安全、无缝且极度省心的原生级体验。
+A light yet capable native archive utility for macOS. It blends quietly into the system and handles thirty-odd archive formats. There is no need to wait for a full extraction: search inside the window, preview with the space bar, or drag out exactly the file you want, and legacy filename encodings are detected automatically, so garbled names are a thing of the past. With a deep Finder extension, careful safety checks and a brisk, simple flow, it turns packing and unpacking into a seamless, worry-free native experience.
 
-系统要求：macOS 14 及以上。下载：[Densa-0.1.0.zip](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/densa-v0.1.0/Densa-0.1.0.zip)
+Requires macOS 14 or later. Download: [Densa-0.1.0.zip](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/densa-v0.1.0/Densa-0.1.0.zip)
 
 ---
 
-## 安装
+## Installing
 
-打开 .dmg 后把应用拖进「应用程序」，.zip 解压后同样拖入即可。
+Open the .dmg and drag the app into Applications; for a .zip, unzip it and do the same.
 
-这些应用使用开发者证书签名，尚未经过 Apple 公证，所以第一次打开时 macOS 会拦一次。在应用图标上右键选择「打开」，或者到「系统设置 › 隐私与安全性」点「仍要打开」，之后就不会再问。也可以在终端里执行：
+The apps are signed with a developer certificate but not yet notarized by Apple, so macOS stops the first launch once. Right-click the app and choose Open, or go to System Settings › Privacy & Security and click Open Anyway; it will not ask again. Or, in Terminal:
 
 ```sh
 xattr -dr com.apple.quarantine /Applications/Vela.app
 ```
 
-首次运行需要的权限：Stela 需要「辅助功能」授权，用来把内容粘贴到前台 App；Clara 需要桌面文件夹的访问权限。
+Permissions on first run: Stela needs Accessibility to paste into the frontmost app; Clara needs access to the Desktop folder.
