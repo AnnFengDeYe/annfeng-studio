@@ -16,13 +16,13 @@ Here you will find the tools I build for the Apple ecosystem: Vela, Stela, Folia
 
 I believe a good tool should feel as natural as breathing: invisible most of the time, and genuinely helpful the moment you need it. May these light tools bring a little restraint and efficiency to your digital life.
 
-| | App | In one line | Requires | Download |
+| Icon | App | Description | Requires | Latest |
 |:-:|---|---|---|---|
 | <img src="assets/icon-vela.png" width="28"> | [Vela](#vela) | A quiet video player | macOS 12 or later, Apple silicon | [Vela 0.5.9](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/vela-v0.5.9/Vela-0.5.9-macos-arm64.dmg) |
 | <img src="assets/icon-stela.png" width="28"> | [Stela](#stela) | A clipboard manager in the spirit of Paste | macOS 14 or later | [Stela 1.0.1](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/stela-v1.0.1/Stela-1.0.1.dmg) |
-| <img src="assets/icon-folia.png" width="28"> | [Folia](#folia) | Native PDF reading and annotation | macOS 26 or later | [Folia 1.0.1](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/folia-v1.0.1/Folia-1.0.1.dmg) |
-| <img src="assets/icon-clara.png" width="28"> | [Clara](#clara) | Zones for the Mac desktop | macOS 15 or later | [Clara 1.2.0](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/clara-v1.2.0/Clara-1.2.0.zip) |
-| <img src="assets/icon-densa.png" width="28"> | [Densa](#densa) | Archives in thirty-odd formats | macOS 14 or later | [Densa 0.1.0](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/densa-v0.1.0/Densa-0.1.0.zip) |
+| <img src="assets/icon-folia.png" width="28"> | [Folia](#folia) | A pure, native PDF reader and annotator | macOS 26 or later | [Folia 1.0.1](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/folia-v1.0.1/Folia-1.0.1.dmg) |
+| <img src="assets/icon-clara.png" width="28"> | [Clara](#clara) | A light desktop-zone organizer for the Mac | macOS 15 or later | [Clara 1.2.0](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/clara-v1.2.0/Clara-1.2.0.zip) |
+| <img src="assets/icon-densa.png" width="28"> | [Densa](#densa) | A minimal native archive utility for macOS | macOS 14 or later | [Densa 0.1.0](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/densa-v0.1.0/Densa-0.1.0.zip) |
 
 All installers live on the [Releases](https://github.com/AnnFengDeYe/annfeng-studio/releases) page. Installation notes are at the end.
 

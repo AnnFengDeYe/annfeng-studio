@@ -16,13 +16,13 @@
 
 我相信，好的工具应当如呼吸般自然——平时隐于无形，却能在你需要时提供切实的帮助。愿这些轻巧的工具，能为你的数字生活带来一份克制与高效。
 
-| | 应用 | 一句话 | 系统要求 | 下载 |
+| 图标 | 应用 | 简介 | 系统要求 | 最新版本 |
 |:-:|---|---|---|---|
 | <img src="assets/icon-vela.png" width="28"> | [Vela](#vela) | 一个安静的视频播放器 | macOS 12 及以上，Apple 芯片 | [Vela 0.5.9](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/vela-v0.5.9/Vela-0.5.9-macos-arm64.dmg) |
 | <img src="assets/icon-stela.png" width="28"> | [Stela](#stela) | 复刻 Paste 体验的剪贴板管理器 | macOS 14 及以上 | [Stela 1.0.1](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/stela-v1.0.1/Stela-1.0.1.dmg) |
-| <img src="assets/icon-folia.png" width="28"> | [Folia](#folia) | 原生的 PDF 阅读与批注 | macOS 26 及以上 | [Folia 1.0.1](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/folia-v1.0.1/Folia-1.0.1.dmg) |
-| <img src="assets/icon-clara.png" width="28"> | [Clara](#clara) | 给 Mac 桌面划出分区 | macOS 15 及以上 | [Clara 1.2.0](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/clara-v1.2.0/Clara-1.2.0.zip) |
-| <img src="assets/icon-densa.png" width="28"> | [Densa](#densa) | 三十余种格式的压缩与解压 | macOS 14 及以上 | [Densa 0.1.0](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/densa-v0.1.0/Densa-0.1.0.zip) |
+| <img src="assets/icon-folia.png" width="28"> | [Folia](#folia) | 纯粹的原生 PDF 阅读与批注应用 | macOS 26 及以上 | [Folia 1.0.1](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/folia-v1.0.1/Folia-1.0.1.dmg) |
+| <img src="assets/icon-clara.png" width="28"> | [Clara](#clara) | 轻巧的 Mac 桌面分区整理工具 | macOS 15 及以上 | [Clara 1.2.0](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/clara-v1.2.0/Clara-1.2.0.zip) |
+| <img src="assets/icon-densa.png" width="28"> | [Densa](#densa) | 极简的 macOS 原生解压缩工具 | macOS 14 及以上 | [Densa 0.1.0](https://github.com/AnnFengDeYe/annfeng-studio/releases/download/densa-v0.1.0/Densa-0.1.0.zip) |
 
 全部安装包都在 [Releases](https://github.com/AnnFengDeYe/annfeng-studio/releases) 页面，安装方法见文末。
 
